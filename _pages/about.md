@@ -18,8 +18,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # News
 
-* item
-* item
+* [October '21] Our paper "Rethinking Conditional GAN Training" got accepted to NeurIPS 2021.
+* [January '21] Our paper "Conditional Generative Modeling via Learning the Latent Space" got accepted to ICLR 2021.
 
 Getting started
 ======
