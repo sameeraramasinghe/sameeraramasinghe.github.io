@@ -19,10 +19,15 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 # News
 
 * [October '21] Our paper "Rethinking Conditional GAN Training" got accepted to NeurIPS 2021 [(Arxiv)](https://arxiv.org/abs/2011.13055).
-* [May '21] Our paper "Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces" got accepted to ICCV '21 [(Link)](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf).
+* [May '21] Our paper "Synthesized Feature based Few-Shot Class-Incremental Learning on a Mixture of Subspaces" got accepted to ICCV 2021 [(Link)](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf).
 * [April '21] Joined AIML as a postdocoral researcher.
 * [January '21] Our paper "Conditional Generative Modeling via Learning the Latent Space" got accepted to ICLR 2021 [(Arxiv)](https://arxiv.org/abs/2010.03132).
 * [July '20] I was featured in the newsletter (Vol. 42 #3) of the International Association for Pattern Recognition (IAPR) in recognition for my latest contributions [Link](https://iapr.org/docs/newsletter-2020-03.pdf).
+* [July '20] Our paper "Spectral-GANs for high-resolution 3D point cloud generation" got accepted to IROS 2020 [Link](https://ieeexplore.ieee.org/iel7/9340668/9340635/09341265.pdf). 
+* [Feb '20] Our paper "Blended convolution and synthesis for efficient discrimination of 3d shapes" got accepted to WACV 2020 [Link](http://openaccess.thecvf.com/content_WACV_2020/papers/Ramasinghe_Blended_Convolution_and_Synthesis_for_Efficient_Discrimination_of_3D_Shapes_WACV_2020_paper.pdf).
+* [January '20] Our paper "Learned and Hand-crafted Feature Fusion in Unit Ball for 3D Object Classification" won the best student paper award at ICPRAM 2020 [Link](https://www.scitepress.org/Papers/2020/93448/93448.pdf).
+* [July '19] Our paper "Representation learning on unit ball with 3d roto-translational equivariance" got accepted to IJCV [Link](https://link.springer.com/content/pdf/10.1007/s11263-019-01278-x.pdf).
+* [January '18] Our paper "A context-aware capsule network for multi-label classification" got accepted to ECCV workshops 2018 [Link](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Ramasinghe_A_Context-aware_Capsule_Network_for_Multi-label_Classification_ECCVW_2018_paper.pdf).
 
 Getting started
 ======
