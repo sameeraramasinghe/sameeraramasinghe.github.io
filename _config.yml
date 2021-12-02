@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sameera Ramasinghe"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a post doctoral researcher at Australian Institute for Machine Learning (AIML). Before that, I was a Computer Science PhD student at The Australian National University, supervised by Dr. Salman Khan, Prof. Nick Barnes and Prof. Stephen Gould. My research focuses on incorporating inductive biases into deep neural networks towards better performance."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
