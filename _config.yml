@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sameera Ramasinghe"
   avatar           : "profile.png"
-  bio              : "I am a post doctoral researcher at Australian Institute for Machine Learning (AIML). Before that, I was a Computer Science PhD student at The Australian National University, supervised by Dr. Salman Khan, Prof. Nick Barnes and Prof. Stephen Gould. My research focuses on incorporating inductive biases into deep neural networks towards better performance."
-  location         : "Location"
+  bio              : "Postdoctoral researcher at Australian Institute for Machine Learning (AIML)"
+  location         : "Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.au/citations?user=-j0m9aMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/samgregoost/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/sameeraramasinghe/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
