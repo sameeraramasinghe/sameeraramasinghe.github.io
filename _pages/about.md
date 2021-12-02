@@ -18,7 +18,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # News
 
-* [October '21] Our paper "Rethinking Conditional GAN Training" got accepted to NeurIPS 2021.
+* [October '21] Our paper "Rethinking Conditional GAN Training" got accepted to NeurIPS 2021 [arxiv](https://arxiv.org/abs/2011.13055).
 * [April '21] Joined AIML as a postdocoral researcher.
 * [January '21] Our paper "Conditional Generative Modeling via Learning the Latent Space" got accepted to ICLR 2021.
 * [October '20] I was featured in the newsletter (Vol. 42 #3) of the International Association for Pattern Recognition (IAPR) in recognition for my latest contributions.
